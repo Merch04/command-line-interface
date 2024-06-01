@@ -9,6 +9,6 @@ go run main.go
 Build
 
 ```
-go run main.go
+go build main.go
 
 ```
